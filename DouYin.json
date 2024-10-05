@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "lf3-static.bytednsdoc.com",
+        "v5-dy-o-abtest.zjcdn.com"
+      ],
+      "domain_suffix": [
+        "toutiao.com",
+        "douyincdn.com",
+        "snssdk.com",
+        "ixigua.com",
+        "pstatp.com",
+        "douyinstatic.com",
+        "douyinpic.com",
+        "amemv.com",
+        "douyinvod.com",
+        "ixiguavideo.com",
+        "idouyinvod.com"
+      ]
+    }
+  ]
+}
