@@ -1,24 +1,29 @@
 {
-  "version": 1,
   "rules": [
     {
       "domain": [
         "lf3-static.bytednsdoc.com",
         "v5-dy-o-abtest.zjcdn.com"
       ],
+
       "domain_suffix": [
-        "toutiao.com",
-        "douyincdn.com",
-        "snssdk.com",
-        "ixigua.com",
-        "pstatp.com",
-        "douyinstatic.com",
         "douyinpic.com",
         "amemv.com",
-        "douyinvod.com",
+        "idouyinvod.com",
         "ixiguavideo.com",
-        "idouyinvod.com"
+        "toutiao.com",
+        "douyinvod.com",
+        "pstatp.com",
+        "douyinstatic.com",
+        "ixigua.com",
+        "douyincdn.com",
+        "snssdk.com"
+      ],
+      "ip_cidr": [
+        "157.255.0.0/16",
+        "36.152.0.0/16"
       ]
     }
-  ]
+  ],
+  "version": 2
 }
