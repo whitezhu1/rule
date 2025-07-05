@@ -1,0 +1,5 @@
+DOMAIN,imap.gmail.com
+DOMAIN,pop.gmail.com
+DOMAIN,smtp.gmail.com
+DOMAIN-SUFFIX,imap.yandex.com
+DOMAIN-SUFFIX,smtp.yandex.com
