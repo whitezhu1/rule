@@ -4,3 +4,7 @@ DOMAIN-SUFFIX,gorin.jp
 DOMAIN-SUFFIX,screens-lab.jp
 DOMAIN-SUFFIX,tver.co.jp
 DOMAIN-SUFFIX,tver.jp
+DOMAIN,api.bilibili.com
+DOMAIN,api.live.bilibili.com
+DOMAIN-SUFFIX,iesdouyin.com
+DOMAIN-SUFFIX,aweme.snssdk.com
