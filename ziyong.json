@@ -3,6 +3,10 @@
     {
       "domain_suffix": [
         "ingest.global-contribute.live-video.net"
+      ],
+       "domain": [
+        "www.msftconnecttest.com",
+        "www.msftncsi.com"
       ]
     }
   ],
