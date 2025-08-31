@@ -7,7 +7,10 @@
        "domain": [
         "www.msftconnecttest.com",
         "www.msftncsi.com"
-      ]
+      ],
+      "ip_cidr": [
+          "198.18.0.0/15"
+        ],
     }
   ],
   "version": 2
