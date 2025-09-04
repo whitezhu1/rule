@@ -2,8 +2,7 @@
   "rules": [
     {
       "domain_suffix": [
-        "ingest.global-contribute.live-video.net",
-        "speedtest.mbgcdn.lenovo.com.cn"
+        "ingest.global-contribute.live-video.net"
       ]
     }
   ],
