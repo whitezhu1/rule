@@ -2,7 +2,15 @@
   "rules": [
     {
       "domain_suffix": [
-        "ingest.global-contribute.live-video.net"
+        "ingest.global-contribute.live-video.net",
+        "push.hicloud.com",
+        "push.dbankcloud.cn",
+        "dbankcloud.cn",
+        "hicloud.com",
+        "huawei.com",
+        "huaweicloud.com",
+        "hihonorcloud.com",
+        "vmall.com"
       ]
     }
   ],
