@@ -2,22 +2,7 @@
   "rules": [
     {
       "domain_suffix": [
-        "ingest.global-contribute.live-video.net",
-          "push.hicloud.com",
-          "push.dbankcloud.cn",
-          "logbak.hicloud.com",
-          "logbak.dbankcloud.cn",
-          "push.hispace.dbankcloud.cn",
-          "hicloud.com",
-          "dbankcloud.cn",
-          "huawei.com",
-          "huaweicloud.com"
-      ],
-        "ip_cidr": [
-          "117.78.0.0/16",
-          "114.119.0.0/16",
-          "49.4.0.0/16",
-          "116.63.0.0/16"
+        "ingest.global-contribute.live-video.net"
       ]
     }
   ],
