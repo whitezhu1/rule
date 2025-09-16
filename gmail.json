@@ -9,12 +9,7 @@
       "domain_suffix": [
         "imap.yandex.com",
         "smtp.yandex.com",
-        "datatool.vip",
-        "ext-twitch.tv",
-        "twitchcdn.net",
-        "ttvnw.net",
-        "twitchsvc.net",
-        "twitch.tv"
+        "datatool.vip"
       ]
     }
   ],
