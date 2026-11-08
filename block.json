@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "gdmf.apple.com",
+        "gdmf-ados.apple.com",
+        "mesu.apple.com",
+        "updates.cdn-apple.com",
+        "updates-http.cdn-apple.com",
+        "appldnld.apple.com"
+      ]
+    }
+  ]
+}
